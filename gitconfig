@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = goblinsami@gmail.com
+	name = sami janafse
